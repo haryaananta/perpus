@@ -201,5 +201,9 @@ if (defined('ENVIRONMENT'))
  */
 require_once BASEPATH.'core/CodeIgniter.php';
 
+<<<<<<< HEAD
 //ini branch harya 
 
+=======
+//ini branch reyza
+>>>>>>> reyza
